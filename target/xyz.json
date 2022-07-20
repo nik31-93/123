@@ -1,0 +1,307 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-07-16T13:57:35.422Z",
+        "line": 17,
+        "name": "scenario3",
+        "description": "",
+        "id": "and-or-anotation;scenario3",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "scenario3 method1",
+            "match": {
+              "location": "com.StepDefination.Scenario3.scenario3_method1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "scenario3 method2",
+            "match": {
+              "location": "com.StepDefination.Scenario3.scenario3_method2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "scenario3 method3",
+            "match": {
+              "location": "com.StepDefination.Scenario3.scenario3_method3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          },
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-16T13:57:35.830Z",
+        "line": 23,
+        "name": "scenario4",
+        "description": "",
+        "id": "and-or-anotation;scenario4",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "scenario4 method1",
+            "match": {
+              "location": "com.StepDefination.Scenario4.scenario4_method1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "scenario4 method2",
+            "match": {
+              "location": "com.StepDefination.Scenario4.scenario4_method2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "scenario4 method3",
+            "match": {
+              "location": "com.StepDefination.Scenario4.scenario4_method3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-16T13:57:35.848Z",
+        "line": 29,
+        "name": "scenario5",
+        "description": "",
+        "id": "and-or-anotation;scenario5",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "scenario5 method1",
+            "match": {
+              "location": "com.StepDefination.Scenario5.scenario5_method1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4000000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "scenario5 method2",
+            "match": {
+              "location": "com.StepDefination.Scenario5.scenario5_method2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "scenario5 method3",
+            "match": {
+              "location": "com.StepDefination.Scenario5.scenario5_method3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag2"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-16T13:57:35.872Z",
+        "line": 35,
+        "name": "scenario6",
+        "description": "",
+        "id": "and-or-anotation;scenario6",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "scenario6 method1",
+            "match": {
+              "location": "com.StepDefination.Scenario6.scenario6_method1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "scenario6 method2",
+            "match": {
+              "location": "com.StepDefination.Scenario6.scenario6_method2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "scenario6 method3",
+            "match": {
+              "location": "com.StepDefination.Scenario6.scenario6_method3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-07-16T13:57:35.887Z",
+        "line": 41,
+        "name": "scenario7",
+        "description": "",
+        "id": "and-or-anotation;scenario7",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1000000,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "scenario7 method1",
+            "match": {
+              "location": "com.StepDefination.Scenario7.scenario7_method1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2000000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "scenario7 method2",
+            "match": {
+              "location": "com.StepDefination.Scenario7.scenario7_method2()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "scenario7 method3",
+            "match": {
+              "location": "com.StepDefination.Scenario7.scenario7_method3()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          },
+          {
+            "name": "@tag2"
+          },
+          {
+            "name": "@tag3"
+          }
+        ]
+      }
+    ],
+    "name": "and_or_anotation",
+    "description": "",
+    "id": "and-or-anotation",
+    "keyword": "Feature",
+    "uri": "file:featureFile/xyz.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

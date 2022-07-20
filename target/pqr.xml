@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="5" time="1.314">
+<testcase classname="and_or_anotation" name="scenario3" time="0.295">
+<system-out><![CDATA[Given scenario3 method1.....................................................passed
+When scenario3 method2......................................................passed
+Then scenario3 method3......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="and_or_anotation" name="scenario4" time="0.008">
+<system-out><![CDATA[Given scenario4 method1.....................................................passed
+When scenario4 method2......................................................passed
+Then scenario4 method3......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="and_or_anotation" name="scenario5" time="0.013">
+<system-out><![CDATA[Given scenario5 method1.....................................................passed
+When scenario5 method2......................................................passed
+Then scenario5 method3......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="and_or_anotation" name="scenario6" time="0.006">
+<system-out><![CDATA[Given scenario6 method1.....................................................passed
+When scenario6 method2......................................................passed
+Then scenario6 method3......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="and_or_anotation" name="scenario7" time="0.033">
+<system-out><![CDATA[Given scenario7 method1.....................................................passed
+When scenario7 method2......................................................passed
+Then scenario7 method3......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

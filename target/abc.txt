@@ -1,0 +1,30 @@
+
+@tag @tag1 @tag2
+Scenario: scenario3       # featureFile/xyz.feature:17
+  Given scenario3 method1 # com.StepDefination.Scenario3.scenario3_method1()
+  When scenario3 method2  # com.StepDefination.Scenario3.scenario3_method2()
+  Then scenario3 method3  # com.StepDefination.Scenario3.scenario3_method3()
+
+@tag @tag3
+Scenario: scenario4       # featureFile/xyz.feature:23
+  Given scenario4 method1 # com.StepDefination.Scenario4.scenario4_method1()
+  When scenario4 method2  # com.StepDefination.Scenario4.scenario4_method2()
+  Then scenario4 method3  # com.StepDefination.Scenario4.scenario4_method3()
+
+@tag @tag2 @tag3
+Scenario: scenario5       # featureFile/xyz.feature:29
+  Given scenario5 method1 # com.StepDefination.Scenario5.scenario5_method1()
+  When scenario5 method2  # com.StepDefination.Scenario5.scenario5_method2()
+  Then scenario5 method3  # com.StepDefination.Scenario5.scenario5_method3()
+
+@tag @tag1 @tag3
+Scenario: scenario6       # featureFile/xyz.feature:35
+  Given scenario6 method1 # com.StepDefination.Scenario6.scenario6_method1()
+  When scenario6 method2  # com.StepDefination.Scenario6.scenario6_method2()
+  Then scenario6 method3  # com.StepDefination.Scenario6.scenario6_method3()
+
+@tag @tag1 @tag2 @tag3
+Scenario: scenario7       # featureFile/xyz.feature:41
+  Given scenario7 method1 # com.StepDefination.Scenario7.scenario7_method1()
+  When scenario7 method2  # com.StepDefination.Scenario7.scenario7_method2()
+  Then scenario7 method3  # com.StepDefination.Scenario7.scenario7_method3()
